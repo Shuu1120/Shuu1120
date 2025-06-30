@@ -1,7 +1,11 @@
 # 👋 Hi there! I'm Shuu
 
-I'm a 16-year-old web developer and high school student at N High School (N高等学校).  
-Currently building productivity & shift management web apps with **Next.js + Supabase + OpenAI**.
+Hi there! I’m Shuu, a 16-year-old high school student and web app developer.
+I have hands-on experience building full-stack applications. Currently, I’m developing:
+	•	AI ShiftMate – an AI-powered shift management system for part-time jobs
+	•	DevTaskmate – a productivity-focused task management app designed for desk workers
+
+I’m passionate about creating tools that improve people’s daily workflows through clean UI and smart automation.
 
 ## 🔧 Tech Stack
 - Frontend: Next.js / TypeScript / Tailwind CSS
