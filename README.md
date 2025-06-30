@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there! I'm Shuu
 
-<!--
-**Shuu1120/Shuu1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 16-year-old web developer and high school student at N High School (N高等学校).  
+Currently building productivity & shift management web apps with **Next.js + Supabase + OpenAI**.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Frontend: Next.js / TypeScript / Tailwind CSS
+- Backend: Supabase / Node.js
+- Others: OpenAI API / GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **DevTaskmate** – タスク管理 & 作業効率化Webアプリ
+- **AI ShiftMate** – シフト申請 & 自動スケジューリングアプリ
+
+## 📫 Contact
+- Portfolio: [shuu-studio.com](https://shuu-studio.com)
+- Twitter: [@shuu_dev](https://twitter.com/shuu_dev)
+
+Thanks for stopping by! 🙌
