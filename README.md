@@ -14,6 +14,6 @@ Currently building productivity & shift management web apps with **Next.js + Sup
 
 ## 📫 Contact
 - Portfolio: [shuu-studio.com](https://shuu-studio.com)
-- Twitter: [@shuu_dev](https://twitter.com/shuu_dev)
+- Twitter: [@shu_01212](https://twitter.com/shu_01212)
 
 Thanks for stopping by! 🙌
